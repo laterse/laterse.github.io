@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laterse.github.io/sitemap.html.gz
+Sitemap: https://laterse.github.io/app/sitemap.html.gz
+Sitemap: https://laterse.github.io/assets/sitemap.html.gz
+Sitemap: https://laterse.github.io/css/sitemap.html.gz
+Sitemap: https://laterse.github.io/includes/sitemap.html.gz
+Sitemap: https://laterse.github.io/item/sitemap.html.gz
+Sitemap: https://laterse.github.io/src/sitemap.html.gz
